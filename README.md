@@ -1,0 +1,1 @@
+The files we added/edited in the final portion of the Django tutorial in addition to the command line build logs where the files where staged and commited from command line and pulled with the python anywhere Bash console
